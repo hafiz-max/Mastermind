@@ -1,4 +1,7 @@
 # Mastermind
 hello guys!! this project purpose is to convert the traditional game of mastermind into digital...lets go!!!
 
-to have a better understanding of the project..pls read the readme file first...
+there is still  a lot of things to improvise in this mini project
+
+feel free to comment if you need an explanation regarding the code
+
