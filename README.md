@@ -1,4 +1,4 @@
-# Mastermind #C++
+# Mastermind C++
 hello guys!! this project purpose is to convert the traditional game of mastermind into digital programming...lets go!!!
 
 there is still  a lot of things to improvise in this mini project
